@@ -1,1 +1,1 @@
-print("mamamo")
+print("different icy")
